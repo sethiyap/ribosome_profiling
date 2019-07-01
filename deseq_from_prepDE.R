@@ -7,7 +7,7 @@ count_file="/Users/Pooja/Documents/Data-Analysis/Others/FangFang/2018/ribosome_p
  metadata_file <- "metadata.txt"
  
 #' Title: deseq_from_prepDE
-#' deseq_from_prepDE(count_file,metadata_file, "outfile")
+#' deseq_from_prepDE(count_file,metadata_file, "outfile") 
 #' @param dir 
 #' @param pattern 
 #' @param metadata_file 
